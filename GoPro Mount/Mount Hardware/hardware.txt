@@ -1,0 +1,2 @@
+Nut 8-32 Nylock.sldprt : FH Lock Nut
+Screw 8-32 0.375in.sldprt : 0.375in Screw
